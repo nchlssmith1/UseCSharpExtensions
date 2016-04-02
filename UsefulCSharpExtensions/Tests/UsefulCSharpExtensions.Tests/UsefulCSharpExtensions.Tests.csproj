@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{D2D5DDA8-41D0-474D-8F1F-7966793C4391}</ProjectGuid>
+    <ProjectGuid>{AB90D5D5-2830-44C6-BD33-46B212CB3F73}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>UsefulCSharpExtensions.Tests</RootNamespace>
